@@ -6,73 +6,73 @@ function test()
     var m,n = "";
     switch(a)
     {
-        case 1 :
+        case 0 :
             m="Canh"; 
             break;
-        case 2 :
+        case 1 :
              m='Tân'; 
              break;
-        case 3 :
+        case 2 :
               m='Nhâm'; 
               break;
-        case 4 :
+        case 3 :
               m='Quý'; 
               break;
-        case 5 :
+        case 4 :
              m='Giáp'; 
              break;
-        case 6 :
+        case 5 :
              m='Ất' ;
              break;
-        case 7 :
+        case 6 :
               m='Bính'; 
               break;
-        case 8:
+        case 7:
             m='Đinh'; 
             break; 
-        case 9 :
+        case 8 :
             m='Mậu'; 
             break;
-        case 10 :
+        case 9 :
             m='Kỉ'; 
              break;                    
     } 
     switch(b)
     {
-        case 1 :
+        case 0 :
             n="Thân"; 
             break;
-        case 2 :
+        case 1 :
             n="Dậu"; 
              break;
-        case 3 :
+        case 2 :
             n="Tuất"; 
               break;
-        case 4 :
+        case 3 :
             n="Hợi"; 
               break;
-        case 5 :
+        case 4:
             n="Tý"; 
              break;
-        case 6 :
+        case 5:
             n="Sửu"; ;
              break;
-        case 7 :
+        case 6 :
             n="Dần"; 
               break;
-        case 8:
+        case 7:
             n="Mẹo";    
             break; 
-        case 9 :
+        case 8 :
             n="Thìn"; 
             break;
-        case 10 :
+        case 9 :
             n="Tỵ"; 
              break;        
-        case 11 :
+        case 10 :
             n="Ngọ"; 
             break;       
-        case 12 :
+        case 11 :
             n="Mùi";  
             break;                
     }     
